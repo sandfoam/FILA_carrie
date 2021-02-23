@@ -8,23 +8,23 @@ task('delDist',async ()=>{
   await del('./dist')
 })
 
-// 处理css
-task('style',async ()=>{
-  src('./style/*.css')
-  .pipe(load.rev())//给文件名添加哈希值
-  .pipe(load.minifyCss())//压缩css
-  .pipe(dest('./dist/style'))//写入到dist目录下
-  .pipe(load.rev.manifest())//生成记录哈希值的json文件
-  .pipe(dest('./rev/css'))//将记录哈希值的json文件保存rev目录
-})
+// // 处理css
+// task('style',async ()=>{
+//   src('./sass/*.scss')
+//   .pipe(load.rev())//给文件名添加哈希值
+//   .pipe(load.minifyCss())//压缩css
+//   .pipe(dest('./dist/style'))//写入到dist目录下
+//   .pipe(load.rev.manifest())//生成记录哈希值的json文件
+//   .pipe(dest('./rev/css'))//将记录哈希值的json文件保存rev目录
+// })
 
 // 编译sass
 task('sass',async ()=>{
-  src('./style/*.scss')
+  src('./sass/*.scss')
   .pipe(load.sassChina())//编译sass
   .pipe(load.rev())//给文件名添加哈希值
   .pipe(load.minifyCss())//压缩css
-  .pipe(dest('./dist/style'))//写入到dist目录下
+  .pipe(dest('./dist/sass'))//写入到dist目录下
   .pipe(load.rev.manifest())//生成记录哈希值的json文件
   .pipe(dest('./rev/css'))//将记录哈希值的json文件保存rev目录
 })
@@ -32,22 +32,22 @@ task('sass',async ()=>{
 
 // 处理js
 task('script',async ()=>{
-  src('./script/*.js')
+  src('./js/*.js')
   .pipe(load.rev())
   .pipe(load.babel({
     presets: ['@babel/env']
   }))
   .pipe(load.uglify())
-  .pipe(dest('./dist/script'))
+  .pipe(dest('./dist/js'))
   .pipe(load.rev.manifest())
   .pipe(dest('./rev/js'))
 })
 
 // 压缩图片
 task('image',async ()=>{
-  src('./image/*.*')
+  src('./img/*.*')
   .pipe(load.imageminChangba())
-  .pipe(dest('./dist/image'))
+  .pipe(dest('./dist/img'))
 })
 
 // 处理html
