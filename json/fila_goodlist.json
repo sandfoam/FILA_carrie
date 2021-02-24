@@ -59,6 +59,45 @@
         },
         {
             "info": {
+                "image": "https://img.fishfay.com/shopgoods/7/F71M118704F/zt-F71M118704F/935d4bbb45e2cce6d4b2f8edce17e0e1.jpg",
+                "id_goods": "64727",
+                "market_price": "1680.00",
+                "price": "1680.00",
+                "pro_name": "蔡徐坤同款男子时尚休闲梭织上衣",
+                "pro_info": "",
+                "pre_desc": "",
+                "pro_title": "梭织上衣",
+                "pro_content": "",
+                "url": "/goods-64727.html",
+                "murl": "/m/goods-64727.html"
+            },
+            "child": [
+                {
+                    "image": {
+                        "small": "https://img.fishfay.com/shopgoods/7/F71M118704F/F71M118704FBK/1/26623d2a7a7fbd19930244df25812304.jpg",
+                        "normal": "https://img.fishfay.com/shopgoods/7/F71M118704F/F71M118704FBK/1/26623d2a7a7fbd19930244df25812304.jpg"
+                    },
+                    "id_goods": "64727",
+                    "url": "/goods-64727.html?id_pa=521688",
+                    "murl": "/m/goods-64727.html?id_pa=521688",
+                    "info": "正黑色拼朱纲红",
+                    "stock": 116
+                },
+                {
+                    "image": {
+                        "small": "https://img.fishfay.com/shopgoods/7/F71M118704F/F71M118704FNV/1/f9d29775067bc722a9d2733278999c3c.jpg",
+                        "normal": "https://img.fishfay.com/shopgoods/7/F71M118704F/F71M118704FNV/1/f9d29775067bc722a9d2733278999c3c.jpg"
+                    },
+                    "id_goods": "64727",
+                    "url": "/goods-64727.html?id_pa=521689",
+                    "murl": "/m/goods-64727.html?id_pa=521689",
+                    "info": "藏青色拼星河紫",
+                    "stock": 129
+                }
+            ]
+        },
+        {
+            "info": {
                 "image": "https://img.fishfay.com/shopgoods/7/F11W118401F/zt-F11W118401F/c906de001fb5776505ff1eb4d6c91c2f.jpg",
                 "id_goods": "60718",
                 "market_price": "1680.00",
@@ -538,45 +577,7 @@
                 }
             ]
         },
-        {
-            "info": {
-                "image": "https://img.fishfay.com/shopgoods/7/F71M118704F/zt-F71M118704F/935d4bbb45e2cce6d4b2f8edce17e0e1.jpg",
-                "id_goods": "64727",
-                "market_price": "1680.00",
-                "price": "1680.00",
-                "pro_name": "蔡徐坤同款男子时尚休闲梭织上衣",
-                "pro_info": "",
-                "pre_desc": "",
-                "pro_title": "梭织上衣",
-                "pro_content": "",
-                "url": "/goods-64727.html",
-                "murl": "/m/goods-64727.html"
-            },
-            "child": [
-                {
-                    "image": {
-                        "small": "https://img.fishfay.com/shopgoods/7/F71M118704F/F71M118704FBK/1/26623d2a7a7fbd19930244df25812304.jpg",
-                        "normal": "https://img.fishfay.com/shopgoods/7/F71M118704F/F71M118704FBK/1/26623d2a7a7fbd19930244df25812304.jpg"
-                    },
-                    "id_goods": "64727",
-                    "url": "/goods-64727.html?id_pa=521688",
-                    "murl": "/m/goods-64727.html?id_pa=521688",
-                    "info": "正黑色拼朱纲红",
-                    "stock": 116
-                },
-                {
-                    "image": {
-                        "small": "https://img.fishfay.com/shopgoods/7/F71M118704F/F71M118704FNV/1/f9d29775067bc722a9d2733278999c3c.jpg",
-                        "normal": "https://img.fishfay.com/shopgoods/7/F71M118704F/F71M118704FNV/1/f9d29775067bc722a9d2733278999c3c.jpg"
-                    },
-                    "id_goods": "64727",
-                    "url": "/goods-64727.html?id_pa=521689",
-                    "murl": "/m/goods-64727.html?id_pa=521689",
-                    "info": "藏青色拼星河紫",
-                    "stock": 129
-                }
-            ]
-        },
+       
         {
             "info": {
                 "image": "https://img.fishfay.com/shopgoods/7/F11M118608F/zt-F11M118608F/ec469c23b3ed96efc97d02b6e3ea2893.jpg",

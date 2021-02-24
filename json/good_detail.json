@@ -22,6 +22,8 @@
     "w_order": 1,
     "onsell": 1,
     "mem_type": 0,
+    "bigimg":"https://img.fishfay.com/shopgoods/7/F11M118601F/zt-F11M118601F/68bd45345a1e9cb021cb89f440ab239c.jpg",
+            
     "image": {
         "bd": [
             {
@@ -133,20 +135,10 @@
                 "status": 1
             }
         ],
-        "big": [
-            {
-                "id_pi": 1466395,
-                "id_pa": 0,
-                "id_goods": 62205,
-                "path": "https://img.fishfay.com/shopgoods/7/F11M118601F/zt-F11M118601F/68bd45345a1e9cb021cb89f440ab239c.jpg",
-                "order_id": 13,
-                "image_type": "big",
-                "status": 1
-            }
-        ],
-        "master": {
-            "499249": {
-                "1": {
+        
+        "master": [
+
+               {
                     "id_pi": 1466388,
                     "id_pa": 499249,
                     "id_goods": 62205,
@@ -155,7 +147,7 @@
                     "image_type": "master",
                     "status": 1
                 },
-                "2": {
+                 {
                     "id_pi": 1466392,
                     "id_pa": 499249,
                     "id_goods": 62205,
@@ -164,7 +156,7 @@
                     "image_type": "master",
                     "status": 1
                 },
-                "3": {
+                 {
                     "id_pi": 1466393,
                     "id_pa": 499249,
                     "id_goods": 62205,
@@ -173,7 +165,7 @@
                     "image_type": "master",
                     "status": 1
                 },
-                "4": {
+                 {
                     "id_pi": 1466394,
                     "id_pa": 499249,
                     "id_goods": 62205,
@@ -182,7 +174,7 @@
                     "image_type": "master",
                     "status": 1
                 },
-                "15": {
+                 {
                     "id_pi": 1466389,
                     "id_pa": 499249,
                     "id_goods": 62205,
@@ -191,7 +183,7 @@
                     "image_type": "master",
                     "status": 1
                 },
-                "16": {
+                {
                     "id_pi": 1466390,
                     "id_pa": 499249,
                     "id_goods": 62205,
@@ -200,7 +192,7 @@
                     "image_type": "master",
                     "status": 1
                 },
-                "17": {
+                 {
                     "id_pi": 1466391,
                     "id_pa": 499249,
                     "id_goods": 62205,
@@ -209,15 +201,13 @@
                     "image_type": "master",
                     "status": 1
                 }
-            }
-        }
+        ]
     },
     "video": "",
     "pre_switch": 2,
     "pre_desc": "",
     "pre_price": "0.00",
     "color": {
-        "499249": {
             "id_pa": 499249,
             "id_pac": 1,
             "id_goods": 62205,
@@ -228,7 +218,6 @@
             "video_url": "",
             "attr_cate_name": "颜色",
             "attr_cate_code": "color"
-        }
     },
     "sku_info": [
         {
@@ -572,423 +561,8 @@
         "【免运费】会员专享"
     ],
     "isCollection": 0
-},
-{
-    "id_goods": 60718,
-    "id_shop": 2,
-    "id_alias": "F11W118401F",
-    "id_brand": "1",
-    "pro_title": "高圆圆同款女子时尚休闲编织开衫",
-    "pro_name": "编织开衫",
-    "pro_info": "",
-    "pro_content": "",
-    "keyword": "FILAWHITE LINE女子时尚休闲编织开衫-F11W118401F",
-    "cate_id": "0",
-    "min_price": "1344.00",
-    "max_price": "1680.00",
-    "price": "1579.00",
-    "market_price": "1680.00",
-    "add_time": 1607094623,
-    "up_time": 1607094642,
-    "ficti": 0,
-    "sales": 2,
-    "sales_week": 1,
-    "sales_month": 1,
-    "w_order": 1,
-    "onsell": 1,
-    "mem_type": 0,
-    "image": {
-        "big": [
-            {
-                "id_pi": 1533201,
-                "id_pa": 0,
-                "id_goods": 60718,
-                "path": "https://img.fishfay.com/shopgoods/7/F11W118401F/zt-F11W118401F/c906de001fb5776505ff1eb4d6c91c2f.jpg",
-                "order_id": 31,
-                "image_type": "big",
-                "status": 1
-            }
-        ],
-        "master": {
-            "486635": {
-                "1": {
-                    "id_pi": 1421943,
-                    "id_pa": 486635,
-                    "id_goods": 60718,
-                    "path": "https://img.fishfay.com/shopgoods/7/F11W118401F/F11W118401FWT/1/d42f3544b47b261c5e2727199e0ccaa9.jpg",
-                    "order_id": 1,
-                    "image_type": "master",
-                    "status": 1
-                },
-                "2": {
-                    "id_pi": 1421947,
-                    "id_pa": 486635,
-                    "id_goods": 60718,
-                    "path": "https://img.fishfay.com/shopgoods/7/F11W118401F/F11W118401FWT/2/890c365350d4007f50dab000a55b61f3.jpg",
-                    "order_id": 2,
-                    "image_type": "master",
-                    "status": 1
-                },
-                "3": {
-                    "id_pi": 1421948,
-                    "id_pa": 486635,
-                    "id_goods": 60718,
-                    "path": "https://img.fishfay.com/shopgoods/7/F11W118401F/F11W118401FWT/3/0e64179eb4d2aa60f9aeff91f20a2277.jpg",
-                    "order_id": 3,
-                    "image_type": "master",
-                    "status": 1
-                },
-                "4": {
-                    "id_pi": 1421949,
-                    "id_pa": 486635,
-                    "id_goods": 60718,
-                    "path": "https://img.fishfay.com/shopgoods/7/F11W118401F/F11W118401FWT/4/faa42e0b69399591a998bac74ee22f0c.JPG",
-                    "order_id": 4,
-                    "image_type": "master",
-                    "status": 1
-                },
-                "15": {
-                    "id_pi": 1421944,
-                    "id_pa": 486635,
-                    "id_goods": 60718,
-                    "path": "https://img.fishfay.com/shopgoods/7/F11W118401F/F11W118401FWT/15/42952109e069ce9439ab3eaa5055023a.JPG",
-                    "order_id": 15,
-                    "image_type": "master",
-                    "status": 1
-                },
-                "16": {
-                    "id_pi": 1421945,
-                    "id_pa": 486635,
-                    "id_goods": 60718,
-                    "path": "https://img.fishfay.com/shopgoods/7/F11W118401F/F11W118401FWT/16/5c9790ab9cb1a71447cec6c841c1f396.JPG",
-                    "order_id": 16,
-                    "image_type": "master",
-                    "status": 1
-                },
-                "17": {
-                    "id_pi": 1421946,
-                    "id_pa": 486635,
-                    "id_goods": 60718,
-                    "path": "https://img.fishfay.com/shopgoods/7/F11W118401F/F11W118401FWT/17/bfd1777f14c2db26c7a047acaa0cf309.JPG",
-                    "order_id": 17,
-                    "image_type": "master",
-                    "status": 1
-                }
-            }
-        }
-    },
-    "video": "",
-    "pre_switch": 2,
-    "pre_desc": "",
-    "pre_price": "0.00",
-    "color": {
-        "486635": {
-            "id_pa": 486635,
-            "id_pac": 1,
-            "id_goods": 60718,
-            "attr_name": "云菇白",
-            "attr_alias": "F11W118401FWT",
-            "order_id": 1,
-            "image_url": "https://img.fishfay.com/shopgoods/7/F11W118401F/F11W118401FWT/1/d42f3544b47b261c5e2727199e0ccaa9.jpg",
-            "video_url": "",
-            "attr_cate_name": "颜色",
-            "attr_cate_code": "color"
-        }
-    },
-    "sku_info": [
-        {
-            "attr": [
-                {
-                    "id_pa": 486635,
-                    "id_pac": 1,
-                    "id_goods": 60718,
-                    "attr_name": "云菇白",
-                    "attr_alias": "F11W118401FWT",
-                    "order_id": 1,
-                    "image_url": "https://img.fishfay.com/shopgoods/7/F11W118401F/F11W118401FWT/1/d42f3544b47b261c5e2727199e0ccaa9.jpg",
-                    "video_url": "",
-                    "attr_cate_name": "颜色",
-                    "attr_cate_code": "color"
-                },
-                {
-                    "id_pa": 486636,
-                    "id_pac": 5,
-                    "id_goods": 60718,
-                    "attr_name": "XS",
-                    "attr_alias": "XS",
-                    "order_id": 503,
-                    "image_url": "",
-                    "video_url": "",
-                    "attr_cate_name": "尺码",
-                    "attr_cate_code": "size"
-                }
-            ],
-            "info": {
-                "id_sku": 841353,
-                "id_shop": 2,
-                "id_goods": 60718,
-                "shop_price": "1579.00",
-                "market_price": "1680.00",
-                "image": "https://img.fishfay.com/shopgoods/7/F11W118401F/F11W118401FWT/1/d42f3544b47b261c5e2727199e0ccaa9.jpg",
-                "idpas": "486635,486636",
-                "attr_name": "颜色:云菇白;尺码:XS",
-                "title": "编织开衫",
-                "sku": "6902961044625",
-                "stock": 0,
-                "lock_stock": 0,
-                "sale_stock": 0,
-                "sync_lock": "0",
-                "id_pa_group": [
-                    486635,
-                    486636
-                ]
-            }
-        },
-        {
-            "attr": [
-                {
-                    "id_pa": 486635,
-                    "id_pac": 1,
-                    "id_goods": 60718,
-                    "attr_name": "云菇白",
-                    "attr_alias": "F11W118401FWT",
-                    "order_id": 1,
-                    "image_url": "https://img.fishfay.com/shopgoods/7/F11W118401F/F11W118401FWT/1/d42f3544b47b261c5e2727199e0ccaa9.jpg",
-                    "video_url": "",
-                    "attr_cate_name": "颜色",
-                    "attr_cate_code": "color"
-                },
-                {
-                    "id_pa": 486637,
-                    "id_pac": 5,
-                    "id_goods": 60718,
-                    "attr_name": "S",
-                    "attr_alias": "S",
-                    "order_id": 515,
-                    "image_url": "",
-                    "video_url": "",
-                    "attr_cate_name": "尺码",
-                    "attr_cate_code": "size"
-                }
-            ],
-            "info": {
-                "id_sku": 841354,
-                "id_shop": 2,
-                "id_goods": 60718,
-                "shop_price": "1579.00",
-                "market_price": "1680.00",
-                "image": "https://img.fishfay.com/shopgoods/7/F11W118401F/F11W118401FWT/1/d42f3544b47b261c5e2727199e0ccaa9.jpg",
-                "idpas": "486635,486637",
-                "attr_name": "颜色:云菇白;尺码:S",
-                "title": "编织开衫",
-                "sku": "6902961044618",
-                "stock": 3,
-                "lock_stock": 0,
-                "sale_stock": 0,
-                "sync_lock": "0",
-                "id_pa_group": [
-                    486635,
-                    486637
-                ]
-            }
-        },
-        {
-            "attr": [
-                {
-                    "id_pa": 486635,
-                    "id_pac": 1,
-                    "id_goods": 60718,
-                    "attr_name": "云菇白",
-                    "attr_alias": "F11W118401FWT",
-                    "order_id": 1,
-                    "image_url": "https://img.fishfay.com/shopgoods/7/F11W118401F/F11W118401FWT/1/d42f3544b47b261c5e2727199e0ccaa9.jpg",
-                    "video_url": "",
-                    "attr_cate_name": "颜色",
-                    "attr_cate_code": "color"
-                },
-                {
-                    "id_pa": 486638,
-                    "id_pac": 5,
-                    "id_goods": 60718,
-                    "attr_name": "M",
-                    "attr_alias": "M",
-                    "order_id": 541,
-                    "image_url": "",
-                    "video_url": "",
-                    "attr_cate_name": "尺码",
-                    "attr_cate_code": "size"
-                }
-            ],
-            "info": {
-                "id_sku": 841355,
-                "id_shop": 2,
-                "id_goods": 60718,
-                "shop_price": "1579.00",
-                "market_price": "1680.00",
-                "image": "https://img.fishfay.com/shopgoods/7/F11W118401F/F11W118401FWT/1/d42f3544b47b261c5e2727199e0ccaa9.jpg",
-                "idpas": "486635,486638",
-                "attr_name": "颜色:云菇白;尺码:M",
-                "title": "编织开衫",
-                "sku": "6902961044601",
-                "stock": 32,
-                "lock_stock": 0,
-                "sale_stock": 0,
-                "sync_lock": "0",
-                "id_pa_group": [
-                    486635,
-                    486638
-                ]
-            }
-        },
-        {
-            "attr": [
-                {
-                    "id_pa": 486635,
-                    "id_pac": 1,
-                    "id_goods": 60718,
-                    "attr_name": "云菇白",
-                    "attr_alias": "F11W118401FWT",
-                    "order_id": 1,
-                    "image_url": "https://img.fishfay.com/shopgoods/7/F11W118401F/F11W118401FWT/1/d42f3544b47b261c5e2727199e0ccaa9.jpg",
-                    "video_url": "",
-                    "attr_cate_name": "颜色",
-                    "attr_cate_code": "color"
-                },
-                {
-                    "id_pa": 486639,
-                    "id_pac": 5,
-                    "id_goods": 60718,
-                    "attr_name": "L",
-                    "attr_alias": "L",
-                    "order_id": 563,
-                    "image_url": "",
-                    "video_url": "",
-                    "attr_cate_name": "尺码",
-                    "attr_cate_code": "size"
-                }
-            ],
-            "info": {
-                "id_sku": 841356,
-                "id_shop": 2,
-                "id_goods": 60718,
-                "shop_price": "1579.00",
-                "market_price": "1680.00",
-                "image": "https://img.fishfay.com/shopgoods/7/F11W118401F/F11W118401FWT/1/d42f3544b47b261c5e2727199e0ccaa9.jpg",
-                "idpas": "486635,486639",
-                "attr_name": "颜色:云菇白;尺码:L",
-                "title": "编织开衫",
-                "sku": "6902961044595",
-                "stock": 37,
-                "lock_stock": 0,
-                "sale_stock": 0,
-                "sync_lock": "0",
-                "id_pa_group": [
-                    486635,
-                    486639
-                ]
-            }
-        },
-        {
-            "attr": [
-                {
-                    "id_pa": 486635,
-                    "id_pac": 1,
-                    "id_goods": 60718,
-                    "attr_name": "云菇白",
-                    "attr_alias": "F11W118401FWT",
-                    "order_id": 1,
-                    "image_url": "https://img.fishfay.com/shopgoods/7/F11W118401F/F11W118401FWT/1/d42f3544b47b261c5e2727199e0ccaa9.jpg",
-                    "video_url": "",
-                    "attr_cate_name": "颜色",
-                    "attr_cate_code": "color"
-                },
-                {
-                    "id_pa": 486640,
-                    "id_pac": 5,
-                    "id_goods": 60718,
-                    "attr_name": "XL",
-                    "attr_alias": "XL",
-                    "order_id": 586,
-                    "image_url": "",
-                    "video_url": "",
-                    "attr_cate_name": "尺码",
-                    "attr_cate_code": "size"
-                }
-            ],
-            "info": {
-                "id_sku": 841357,
-                "id_shop": 2,
-                "id_goods": 60718,
-                "shop_price": "1579.00",
-                "market_price": "1680.00",
-                "image": "https://img.fishfay.com/shopgoods/7/F11W118401F/F11W118401FWT/1/d42f3544b47b261c5e2727199e0ccaa9.jpg",
-                "idpas": "486635,486640",
-                "attr_name": "颜色:云菇白;尺码:XL",
-                "title": "编织开衫",
-                "sku": "6902961044588",
-                "stock": 22,
-                "lock_stock": 0,
-                "sale_stock": 0,
-                "sync_lock": "0",
-                "id_pa_group": [
-                    486635,
-                    486640
-                ]
-            }
-        },
-        {
-            "attr": [
-                {
-                    "id_pa": 486635,
-                    "id_pac": 1,
-                    "id_goods": 60718,
-                    "attr_name": "云菇白",
-                    "attr_alias": "F11W118401FWT",
-                    "order_id": 1,
-                    "image_url": "https://img.fishfay.com/shopgoods/7/F11W118401F/F11W118401FWT/1/d42f3544b47b261c5e2727199e0ccaa9.jpg",
-                    "video_url": "",
-                    "attr_cate_name": "颜色",
-                    "attr_cate_code": "color"
-                },
-                {
-                    "id_pa": 486641,
-                    "id_pac": 5,
-                    "id_goods": 60718,
-                    "attr_name": "2XL",
-                    "attr_alias": "2XL",
-                    "order_id": 621,
-                    "image_url": "",
-                    "video_url": "",
-                    "attr_cate_name": "尺码",
-                    "attr_cate_code": "size"
-                }
-            ],
-            "info": {
-                "id_sku": 841358,
-                "id_shop": 2,
-                "id_goods": 60718,
-                "shop_price": "1579.00",
-                "market_price": "1680.00",
-                "image": "https://img.fishfay.com/shopgoods/7/F11W118401F/F11W118401FWT/1/d42f3544b47b261c5e2727199e0ccaa9.jpg",
-                "idpas": "486635,486641",
-                "attr_name": "颜色:云菇白;尺码:2XL",
-                "title": "编织开衫",
-                "sku": "6902961044571",
-                "stock": 0,
-                "lock_stock": 0,
-                "sale_stock": 0,
-                "sync_lock": "0",
-                "id_pa_group": [
-                    486635,
-                    486641
-                ]
-            }
-        }
-    ],
-    "promos": [
-        "【免运费】会员专享"
-    ],
-    "isCollection": 0
+   
+        
 },
 {
     "id_goods": 62206,
@@ -1014,6 +588,7 @@
     "w_order": 1,
     "onsell": 1,
     "mem_type": 0,
+    "bigimg":  "https://img.fishfay.com/shopgoods/7/F11M118901F/zt-F11M118901F/77b9733294e2602286a3ba3707082dd2.jpg",
     "image": {
         "bd": [
             {
@@ -1107,20 +682,9 @@
                 "status": 1
             }
         ],
-        "big": [
-            {
-                "id_pi": 1590704,
-                "id_pa": 0,
-                "id_goods": 62206,
-                "path": "https://img.fishfay.com/shopgoods/7/F11M118901F/zt-F11M118901F/77b9733294e2602286a3ba3707082dd2.jpg",
-                "order_id": 31,
-                "image_type": "big",
-                "status": 1
-            }
-        ],
-        "master": {
-            "499257": {
-                "1": {
+        
+        "master": [
+                {
                     "id_pi": 1466408,
                     "id_pa": 499257,
                     "id_goods": 62206,
@@ -1129,7 +693,7 @@
                     "image_type": "master",
                     "status": 1
                 },
-                "2": {
+                 {
                     "id_pi": 1466412,
                     "id_pa": 499257,
                     "id_goods": 62206,
@@ -1138,7 +702,7 @@
                     "image_type": "master",
                     "status": 1
                 },
-                "3": {
+                {
                     "id_pi": 1466413,
                     "id_pa": 499257,
                     "id_goods": 62206,
@@ -1147,7 +711,7 @@
                     "image_type": "master",
                     "status": 1
                 },
-                "4": {
+                {
                     "id_pi": 1466414,
                     "id_pa": 499257,
                     "id_goods": 62206,
@@ -1156,7 +720,7 @@
                     "image_type": "master",
                     "status": 1
                 },
-                "15": {
+                {
                     "id_pi": 1466409,
                     "id_pa": 499257,
                     "id_goods": 62206,
@@ -1165,7 +729,7 @@
                     "image_type": "master",
                     "status": 1
                 },
-                "16": {
+                 {
                     "id_pi": 1466410,
                     "id_pa": 499257,
                     "id_goods": 62206,
@@ -1174,7 +738,7 @@
                     "image_type": "master",
                     "status": 1
                 },
-                "17": {
+                 {
                     "id_pi": 1466411,
                     "id_pa": 499257,
                     "id_goods": 62206,
@@ -1183,15 +747,14 @@
                     "image_type": "master",
                     "status": 1
                 }
-            }
-        }
+            ]
     },
     "video": "",
     "pre_switch": 2,
     "pre_desc": "",
     "pre_price": "0.00",
     "color": {
-        "499257": {
+ 
             "id_pa": 499257,
             "id_pac": 1,
             "id_goods": 62206,
@@ -1202,7 +765,7 @@
             "video_url": "",
             "attr_cate_name": "颜色",
             "attr_cate_code": "color"
-        }
+
     },
     "sku_info": [
         {
@@ -1490,6 +1053,877 @@
                 "id_pa_group": [
                     499257,
                     499259
+                ]
+            }
+        }
+    ],
+    "promos": [
+        "【免运费】会员专享"
+    ],
+    "isCollection": 0
+},
+{
+    "id_goods": 64727,
+    "id_shop": 2,
+    "id_alias": "F71M118704F",
+    "id_brand": "1",
+    "pro_title": "蔡徐坤同款男子时尚休闲梭织上衣",
+    "pro_name": "梭织上衣",
+    "pro_info": "",
+    "pro_content": "",
+    "keyword": "FILAWHITE LINE男子时尚休闲梭织上衣-F71M118704F",
+    "cate_id": "0",
+    "min_price": "1680.00",
+    "max_price": "1680.00",
+    "price": "1680.00",
+    "market_price": "1680.00",
+    "add_time": 1610086064,
+    "up_time": 1611553931,
+    "ficti": 0,
+    "sales": 0,
+    "sales_week": 0,
+    "sales_month": 0,
+    "w_order": 0,
+    "onsell": 1,
+    "mem_type": 0,
+    "bigimg": "https://img.fishfay.com/shopgoods/7/F71M118704F/zt-F71M118704F/935d4bbb45e2cce6d4b2f8edce17e0e1.jpg",
+    "image": {
+        "bd": [
+            {
+                "id_pi": 1531322,
+                "id_pa": 0,
+                "id_goods": 64727,
+                "path": "https://img.fishfay.com/shopgoods/7/F71M118704F/F71M118704F_01/e89c87deb66b0903e3c2b1192676d749.jpg",
+                "order_id": 1,
+                "image_type": "bd",
+                "status": 1
+            },
+            {
+                "id_pi": 1531312,
+                "id_pa": 0,
+                "id_goods": 64727,
+                "path": "https://img.fishfay.com/shopgoods/7/F71M118704F/F71M118704F_06/7c9faa7f11dbad4b6f43425b0888299b.jpg",
+                "order_id": 6,
+                "image_type": "bd",
+                "status": 1
+            },
+            {
+                "id_pi": 1531313,
+                "id_pa": 0,
+                "id_goods": 64727,
+                "path": "https://img.fishfay.com/shopgoods/7/F71M118704F/F71M118704F_08/9d83b06ba7165789b35d71d7abc6f570.jpg",
+                "order_id": 8,
+                "image_type": "bd",
+                "status": 1
+            },
+            {
+                "id_pi": 1531314,
+                "id_pa": 0,
+                "id_goods": 64727,
+                "path": "https://img.fishfay.com/shopgoods/7/F71M118704F/F71M118704F_09/d270f97706a0f77f3638c70d7b52c1ec.jpg",
+                "order_id": 9,
+                "image_type": "bd",
+                "status": 1
+            },
+            {
+                "id_pi": 1531315,
+                "id_pa": 0,
+                "id_goods": 64727,
+                "path": "https://img.fishfay.com/shopgoods/7/F71M118704F/F71M118704F_10/d33ff2c8806ebbb9cd2e5d8cb1fa6e73.jpg",
+                "order_id": 10,
+                "image_type": "bd",
+                "status": 1
+            },
+            {
+                "id_pi": 1531316,
+                "id_pa": 0,
+                "id_goods": 64727,
+                "path": "https://img.fishfay.com/shopgoods/7/F71M118704F/F71M118704F_11/7bfbb52695c8bbd61007d656bf2de914.jpg",
+                "order_id": 11,
+                "image_type": "bd",
+                "status": 1
+            },
+            {
+                "id_pi": 1531317,
+                "id_pa": 0,
+                "id_goods": 64727,
+                "path": "https://img.fishfay.com/shopgoods/7/F71M118704F/F71M118704F_12/43dbda556f2256c44fecbc4d55e62c86.jpg",
+                "order_id": 12,
+                "image_type": "bd",
+                "status": 1
+            },
+            {
+                "id_pi": 1531318,
+                "id_pa": 0,
+                "id_goods": 64727,
+                "path": "https://img.fishfay.com/shopgoods/7/F71M118704F/F71M118704F_20/8742379fae9fc2be3171e266d329aba6.jpg",
+                "order_id": 20,
+                "image_type": "bd",
+                "status": 1
+            },
+            {
+                "id_pi": 1531319,
+                "id_pa": 0,
+                "id_goods": 64727,
+                "path": "https://img.fishfay.com/shopgoods/7/F71M118704F/F71M118704F_21/88de8128ba542224192b244e87cc6ebb.jpg",
+                "order_id": 21,
+                "image_type": "bd",
+                "status": 1
+            },
+            {
+                "id_pi": 1531320,
+                "id_pa": 0,
+                "id_goods": 64727,
+                "path": "https://img.fishfay.com/shopgoods/7/F71M118704F/F71M118704F_22/066509d26d1a1027fbfd2fcdc070ebb4.jpg",
+                "order_id": 22,
+                "image_type": "bd",
+                "status": 1
+            },
+            {
+                "id_pi": 1531321,
+                "id_pa": 0,
+                "id_goods": 64727,
+                "path": "https://img.fishfay.com/shopgoods/7/F71M118704F/F71M118704F_0/f41a8e0d29c5d5c156e7add1bed83bc9.jpg",
+                "order_id": 3993,
+                "image_type": "bd",
+                "status": 1
+            }
+        ],
+        "master": [
+             {
+                    "id_pi": 1531295,
+                    "id_pa": 521688,
+                    "id_goods": 64727,
+                    "path": "https://img.fishfay.com/shopgoods/7/F71M118704F/F71M118704FNV/1/f9d29775067bc722a9d2733278999c3c.jpg",
+                    "order_id": 1,
+                    "image_type": "master",
+                    "status": 1
+                },
+                 {
+                    "id_pi": 1531299,
+                    "id_pa": 521688,
+                    "id_goods": 64727,
+                    "path": "https://img.fishfay.com/shopgoods/7/F71M118704F/F71M118704FNV/2/bc007ec945a0533aee509549ca7147c3.jpg",
+
+                    "order_id": 2,
+                    "image_type": "master",
+                    "status": 1
+                },
+                {
+                    "id_pi": 1531300,
+                    "id_pa": 521688,
+                    "id_goods": 64727,
+                    "path": "https://img.fishfay.com/shopgoods/7/F71M118704F/F71M118704FNV/3/06f602a80ad4f23be0d366b33c55dbe1.jpg",
+                    "order_id": 3,
+                    "image_type": "master",
+                    "status": 1
+                },
+                {
+                    "id_pi": 1531301,
+                    "id_pa": 521688,
+                    "id_goods": 64727,
+                    "path": "https://img.fishfay.com/shopgoods/7/F71M118704F/F71M118704FNV/4/552107cea295fdf598f18ed9c9149c91.JPG",
+                    "order_id": 4,
+                    "image_type": "master",
+                    "status": 1
+                },
+                {
+                    "id_pi": 1531296,
+                    "id_pa": 521688,
+                    "id_goods": 64727,
+                    "path": "https://img.fishfay.com/shopgoods/7/F71M118704F/F71M118704FNV/15/8145bbbf9ac8286ac10a27ea58841efe.JPG",
+                    "order_id": 15,
+                    "image_type": "master",
+                    "status": 1
+                },
+                {
+                    "id_pi": 1531297,
+                    "id_pa": 521688,
+                    "id_goods": 64727,
+                    "path": "https://img.fishfay.com/shopgoods/7/F71M118704F/F71M118704FBK/16/cb6348266a86363aae5da9cf388e778b.JPG",
+                    "order_id": 16,
+                    "image_type": "master",
+                    "status": 1
+                },
+                {
+                    "id_pi": 1531298,
+                    "id_pa": 521688,
+                    "id_goods": 64727,
+                    "path": "https://img.fishfay.com/shopgoods/7/F71M118704F/F71M118704FBK/17/bcdc863ed140fa881af15c9391ead7b3.JPG",
+                    "order_id": 17,
+                    "image_type": "master",
+                    "status": 1
+                }
+        ]
+    },
+    "video": "",
+    "pre_switch": 2,
+    "pre_desc": "",
+    "pre_price": "0.00",
+    "color": {
+            "id_pa": 521689,
+            "id_pac": 1,
+            "id_goods": 64727,
+            "attr_name": "藏青色拼星河紫",
+            "attr_alias": "F71M118704FNV",
+            "order_id": 2,
+            "image_url": "https://img.fishfay.com/shopgoods/7/F71M118704F/F71M118704FNV/1/f9d29775067bc722a9d2733278999c3c.jpg",
+            "video_url": "",
+            "attr_cate_name": "颜色",
+            "attr_cate_code": "color"
+        
+    },
+    "sku_info": [
+        {
+            "attr": [
+                {
+                    "id_pa": 521688,
+                    "id_pac": 1,
+                    "id_goods": 64727,
+                    "attr_name": "正黑色拼朱纲红",
+                    "attr_alias": "F71M118704FBK",
+                    "order_id": 1,
+                    "image_url": "https://img.fishfay.com/shopgoods/7/F71M118704F/F71M118704FBK/1/26623d2a7a7fbd19930244df25812304.jpg",
+                    "video_url": "",
+                    "attr_cate_name": "颜色",
+                    "attr_cate_code": "color"
+                },
+                {
+                    "id_pa": 521696,
+                    "id_pac": 5,
+                    "id_goods": 64727,
+                    "attr_name": "XS",
+                    "attr_alias": "XS",
+                    "order_id": 503,
+                    "image_url": "",
+                    "video_url": "",
+                    "attr_cate_name": "尺码",
+                    "attr_cate_code": "size"
+                }
+            ],
+            "info": []
+        },
+        {
+            "attr": [
+                {
+                    "id_pa": 521688,
+                    "id_pac": 1,
+                    "id_goods": 64727,
+                    "attr_name": "正黑色拼朱纲红",
+                    "attr_alias": "F71M118704FBK",
+                    "order_id": 1,
+                    "image_url": "https://img.fishfay.com/shopgoods/7/F71M118704F/F71M118704FBK/1/26623d2a7a7fbd19930244df25812304.jpg",
+                    "video_url": "",
+                    "attr_cate_name": "颜色",
+                    "attr_cate_code": "color"
+                },
+                {
+                    "id_pa": 521694,
+                    "id_pac": 5,
+                    "id_goods": 64727,
+                    "attr_name": "S",
+                    "attr_alias": "S",
+                    "order_id": 515,
+                    "image_url": "",
+                    "video_url": "",
+                    "attr_cate_name": "尺码",
+                    "attr_cate_code": "size"
+                }
+            ],
+            "info": {
+                "id_sku": 901007,
+                "id_shop": 2,
+                "id_goods": 64727,
+                "shop_price": "1680.00",
+                "market_price": "1680.00",
+                "image": "https://img.fishfay.com/shopgoods/7/F71M118704F/F71M118704FBK/1/26623d2a7a7fbd19930244df25812304.jpg",
+                "idpas": "521688,521694",
+                "attr_name": "颜色:正黑色拼朱纲红;尺码:S",
+                "title": "梭织上衣",
+                "sku": "6902961040030",
+                "stock": 1,
+                "lock_stock": 0,
+                "sale_stock": 0,
+                "sync_lock": "0",
+                "id_pa_group": [
+                    521688,
+                    521694
+                ]
+            }
+        },
+        {
+            "attr": [
+                {
+                    "id_pa": 521688,
+                    "id_pac": 1,
+                    "id_goods": 64727,
+                    "attr_name": "正黑色拼朱纲红",
+                    "attr_alias": "F71M118704FBK",
+                    "order_id": 1,
+                    "image_url": "https://img.fishfay.com/shopgoods/7/F71M118704F/F71M118704FBK/1/26623d2a7a7fbd19930244df25812304.jpg",
+                    "video_url": "",
+                    "attr_cate_name": "颜色",
+                    "attr_cate_code": "color"
+                },
+                {
+                    "id_pa": 521693,
+                    "id_pac": 5,
+                    "id_goods": 64727,
+                    "attr_name": "M",
+                    "attr_alias": "M",
+                    "order_id": 541,
+                    "image_url": "",
+                    "video_url": "",
+                    "attr_cate_name": "尺码",
+                    "attr_cate_code": "size"
+                }
+            ],
+            "info": {
+                "id_sku": 901006,
+                "id_shop": 2,
+                "id_goods": 64727,
+                "shop_price": "1680.00",
+                "market_price": "1680.00",
+                "image": "https://img.fishfay.com/shopgoods/7/F71M118704F/F71M118704FBK/1/26623d2a7a7fbd19930244df25812304.jpg",
+                "idpas": "521688,521693",
+                "attr_name": "颜色:正黑色拼朱纲红;尺码:M",
+                "title": "梭织上衣",
+                "sku": "6902961040023",
+                "stock": 18,
+                "lock_stock": 0,
+                "sale_stock": 0,
+                "sync_lock": "0",
+                "id_pa_group": [
+                    521688,
+                    521693
+                ]
+            }
+        },
+        {
+            "attr": [
+                {
+                    "id_pa": 521688,
+                    "id_pac": 1,
+                    "id_goods": 64727,
+                    "attr_name": "正黑色拼朱纲红",
+                    "attr_alias": "F71M118704FBK",
+                    "order_id": 1,
+                    "image_url": "https://img.fishfay.com/shopgoods/7/F71M118704F/F71M118704FBK/1/26623d2a7a7fbd19930244df25812304.jpg",
+                    "video_url": "",
+                    "attr_cate_name": "颜色",
+                    "attr_cate_code": "color"
+                },
+                {
+                    "id_pa": 521692,
+                    "id_pac": 5,
+                    "id_goods": 64727,
+                    "attr_name": "L",
+                    "attr_alias": "L",
+                    "order_id": 563,
+                    "image_url": "",
+                    "video_url": "",
+                    "attr_cate_name": "尺码",
+                    "attr_cate_code": "size"
+                }
+            ],
+            "info": {
+                "id_sku": 901005,
+                "id_shop": 2,
+                "id_goods": 64727,
+                "shop_price": "1680.00",
+                "market_price": "1680.00",
+                "image": "https://img.fishfay.com/shopgoods/7/F71M118704F/F71M118704FBK/1/26623d2a7a7fbd19930244df25812304.jpg",
+                "idpas": "521688,521692",
+                "attr_name": "颜色:正黑色拼朱纲红;尺码:L",
+                "title": "梭织上衣",
+                "sku": "6902961040016",
+                "stock": 47,
+                "lock_stock": 0,
+                "sale_stock": 0,
+                "sync_lock": "0",
+                "id_pa_group": [
+                    521688,
+                    521692
+                ]
+            }
+        },
+        {
+            "attr": [
+                {
+                    "id_pa": 521688,
+                    "id_pac": 1,
+                    "id_goods": 64727,
+                    "attr_name": "正黑色拼朱纲红",
+                    "attr_alias": "F71M118704FBK",
+                    "order_id": 1,
+                    "image_url": "https://img.fishfay.com/shopgoods/7/F71M118704F/F71M118704FBK/1/26623d2a7a7fbd19930244df25812304.jpg",
+                    "video_url": "",
+                    "attr_cate_name": "颜色",
+                    "attr_cate_code": "color"
+                },
+                {
+                    "id_pa": 521695,
+                    "id_pac": 5,
+                    "id_goods": 64727,
+                    "attr_name": "XL",
+                    "attr_alias": "XL",
+                    "order_id": 586,
+                    "image_url": "",
+                    "video_url": "",
+                    "attr_cate_name": "尺码",
+                    "attr_cate_code": "size"
+                }
+            ],
+            "info": {
+                "id_sku": 901008,
+                "id_shop": 2,
+                "id_goods": 64727,
+                "shop_price": "1680.00",
+                "market_price": "1680.00",
+                "image": "https://img.fishfay.com/shopgoods/7/F71M118704F/F71M118704FBK/1/26623d2a7a7fbd19930244df25812304.jpg",
+                "idpas": "521688,521695",
+                "attr_name": "颜色:正黑色拼朱纲红;尺码:XL",
+                "title": "梭织上衣",
+                "sku": "6902961040009",
+                "stock": 43,
+                "lock_stock": 0,
+                "sale_stock": 0,
+                "sync_lock": "0",
+                "id_pa_group": [
+                    521688,
+                    521695
+                ]
+            }
+        },
+        {
+            "attr": [
+                {
+                    "id_pa": 521688,
+                    "id_pac": 1,
+                    "id_goods": 64727,
+                    "attr_name": "正黑色拼朱纲红",
+                    "attr_alias": "F71M118704FBK",
+                    "order_id": 1,
+                    "image_url": "https://img.fishfay.com/shopgoods/7/F71M118704F/F71M118704FBK/1/26623d2a7a7fbd19930244df25812304.jpg",
+                    "video_url": "",
+                    "attr_cate_name": "颜色",
+                    "attr_cate_code": "color"
+                },
+                {
+                    "id_pa": 521690,
+                    "id_pac": 5,
+                    "id_goods": 64727,
+                    "attr_name": "2XL",
+                    "attr_alias": "2XL",
+                    "order_id": 621,
+                    "image_url": "",
+                    "video_url": "",
+                    "attr_cate_name": "尺码",
+                    "attr_cate_code": "size"
+                }
+            ],
+            "info": {
+                "id_sku": 901003,
+                "id_shop": 2,
+                "id_goods": 64727,
+                "shop_price": "1680.00",
+                "market_price": "1680.00",
+                "image": "https://img.fishfay.com/shopgoods/7/F71M118704F/F71M118704FBK/1/26623d2a7a7fbd19930244df25812304.jpg",
+                "idpas": "521688,521690",
+                "attr_name": "颜色:正黑色拼朱纲红;尺码:2XL",
+                "title": "梭织上衣",
+                "sku": "6902961039997",
+                "stock": 6,
+                "lock_stock": 0,
+                "sale_stock": 0,
+                "sync_lock": "0",
+                "id_pa_group": [
+                    521688,
+                    521690
+                ]
+            }
+        },
+        {
+            "attr": [
+                {
+                    "id_pa": 521688,
+                    "id_pac": 1,
+                    "id_goods": 64727,
+                    "attr_name": "正黑色拼朱纲红",
+                    "attr_alias": "F71M118704FBK",
+                    "order_id": 1,
+                    "image_url": "https://img.fishfay.com/shopgoods/7/F71M118704F/F71M118704FBK/1/26623d2a7a7fbd19930244df25812304.jpg",
+                    "video_url": "",
+                    "attr_cate_name": "颜色",
+                    "attr_cate_code": "color"
+                },
+                {
+                    "id_pa": 521691,
+                    "id_pac": 5,
+                    "id_goods": 64727,
+                    "attr_name": "3XL",
+                    "attr_alias": "3XL",
+                    "order_id": 637,
+                    "image_url": "",
+                    "video_url": "",
+                    "attr_cate_name": "尺码",
+                    "attr_cate_code": "size"
+                }
+            ],
+            "info": {
+                "id_sku": 901004,
+                "id_shop": 2,
+                "id_goods": 64727,
+                "shop_price": "1680.00",
+                "market_price": "1680.00",
+                "image": "https://img.fishfay.com/shopgoods/7/F71M118704F/F71M118704FBK/1/26623d2a7a7fbd19930244df25812304.jpg",
+                "idpas": "521688,521691",
+                "attr_name": "颜色:正黑色拼朱纲红;尺码:3XL",
+                "title": "梭织上衣",
+                "sku": "6902961039980",
+                "stock": 0,
+                "lock_stock": 0,
+                "sale_stock": 0,
+                "sync_lock": "0",
+                "id_pa_group": [
+                    521688,
+                    521691
+                ]
+            }
+        },
+        {
+            "attr": [
+                {
+                    "id_pa": 521689,
+                    "id_pac": 1,
+                    "id_goods": 64727,
+                    "attr_name": "藏青色拼星河紫",
+                    "attr_alias": "F71M118704FNV",
+                    "order_id": 2,
+                    "image_url": "https://img.fishfay.com/shopgoods/7/F71M118704F/F71M118704FNV/1/f9d29775067bc722a9d2733278999c3c.jpg",
+                    "video_url": "",
+                    "attr_cate_name": "颜色",
+                    "attr_cate_code": "color"
+                },
+                {
+                    "id_pa": 521696,
+                    "id_pac": 5,
+                    "id_goods": 64727,
+                    "attr_name": "XS",
+                    "attr_alias": "XS",
+                    "order_id": 503,
+                    "image_url": "",
+                    "video_url": "",
+                    "attr_cate_name": "尺码",
+                    "attr_cate_code": "size"
+                }
+            ],
+            "info": {
+                "id_sku": 901015,
+                "id_shop": 2,
+                "id_goods": 64727,
+                "shop_price": "1680.00",
+                "market_price": "1680.00",
+                "image": "https://img.fishfay.com/shopgoods/7/F71M118704F/F71M118704FNV/1/f9d29775067bc722a9d2733278999c3c.jpg",
+                "idpas": "521689,521696",
+                "attr_name": "颜色:藏青色拼星河紫;尺码:XS",
+                "title": "梭织上衣",
+                "sku": "6902961044977",
+                "stock": 0,
+                "lock_stock": 0,
+                "sale_stock": 0,
+                "sync_lock": "0",
+                "id_pa_group": [
+                    521689,
+                    521696
+                ]
+            }
+        },
+        {
+            "attr": [
+                {
+                    "id_pa": 521689,
+                    "id_pac": 1,
+                    "id_goods": 64727,
+                    "attr_name": "藏青色拼星河紫",
+                    "attr_alias": "F71M118704FNV",
+                    "order_id": 2,
+                    "image_url": "https://img.fishfay.com/shopgoods/7/F71M118704F/F71M118704FNV/1/f9d29775067bc722a9d2733278999c3c.jpg",
+                    "video_url": "",
+                    "attr_cate_name": "颜色",
+                    "attr_cate_code": "color"
+                },
+                {
+                    "id_pa": 521694,
+                    "id_pac": 5,
+                    "id_goods": 64727,
+                    "attr_name": "S",
+                    "attr_alias": "S",
+                    "order_id": 515,
+                    "image_url": "",
+                    "video_url": "",
+                    "attr_cate_name": "尺码",
+                    "attr_cate_code": "size"
+                }
+            ],
+            "info": {
+                "id_sku": 901013,
+                "id_shop": 2,
+                "id_goods": 64727,
+                "shop_price": "1680.00",
+                "market_price": "1680.00",
+                "image": "https://img.fishfay.com/shopgoods/7/F71M118704F/F71M118704FNV/1/f9d29775067bc722a9d2733278999c3c.jpg",
+                "idpas": "521689,521694",
+                "attr_name": "颜色:藏青色拼星河紫;尺码:S",
+                "title": "梭织上衣",
+                "sku": "6902961044960",
+                "stock": 0,
+                "lock_stock": 0,
+                "sale_stock": 0,
+                "sync_lock": "0",
+                "id_pa_group": [
+                    521689,
+                    521694
+                ]
+            }
+        },
+        {
+            "attr": [
+                {
+                    "id_pa": 521689,
+                    "id_pac": 1,
+                    "id_goods": 64727,
+                    "attr_name": "藏青色拼星河紫",
+                    "attr_alias": "F71M118704FNV",
+                    "order_id": 2,
+                    "image_url": "https://img.fishfay.com/shopgoods/7/F71M118704F/F71M118704FNV/1/f9d29775067bc722a9d2733278999c3c.jpg",
+                    "video_url": "",
+                    "attr_cate_name": "颜色",
+                    "attr_cate_code": "color"
+                },
+                {
+                    "id_pa": 521693,
+                    "id_pac": 5,
+                    "id_goods": 64727,
+                    "attr_name": "M",
+                    "attr_alias": "M",
+                    "order_id": 541,
+                    "image_url": "",
+                    "video_url": "",
+                    "attr_cate_name": "尺码",
+                    "attr_cate_code": "size"
+                }
+            ],
+            "info": {
+                "id_sku": 901012,
+                "id_shop": 2,
+                "id_goods": 64727,
+                "shop_price": "1680.00",
+                "market_price": "1680.00",
+                "image": "https://img.fishfay.com/shopgoods/7/F71M118704F/F71M118704FNV/1/f9d29775067bc722a9d2733278999c3c.jpg",
+                "idpas": "521689,521693",
+                "attr_name": "颜色:藏青色拼星河紫;尺码:M",
+                "title": "梭织上衣",
+                "sku": "6902961044953",
+                "stock": 10,
+                "lock_stock": 0,
+                "sale_stock": 0,
+                "sync_lock": "0",
+                "id_pa_group": [
+                    521689,
+                    521693
+                ]
+            }
+        },
+        {
+            "attr": [
+                {
+                    "id_pa": 521689,
+                    "id_pac": 1,
+                    "id_goods": 64727,
+                    "attr_name": "藏青色拼星河紫",
+                    "attr_alias": "F71M118704FNV",
+                    "order_id": 2,
+                    "image_url": "https://img.fishfay.com/shopgoods/7/F71M118704F/F71M118704FNV/1/f9d29775067bc722a9d2733278999c3c.jpg",
+                    "video_url": "",
+                    "attr_cate_name": "颜色",
+                    "attr_cate_code": "color"
+                },
+                {
+                    "id_pa": 521692,
+                    "id_pac": 5,
+                    "id_goods": 64727,
+                    "attr_name": "L",
+                    "attr_alias": "L",
+                    "order_id": 563,
+                    "image_url": "",
+                    "video_url": "",
+                    "attr_cate_name": "尺码",
+                    "attr_cate_code": "size"
+                }
+            ],
+            "info": {
+                "id_sku": 901011,
+                "id_shop": 2,
+                "id_goods": 64727,
+                "shop_price": "1680.00",
+                "market_price": "1680.00",
+                "image": "https://img.fishfay.com/shopgoods/7/F71M118704F/F71M118704FNV/1/f9d29775067bc722a9d2733278999c3c.jpg",
+                "idpas": "521689,521692",
+                "attr_name": "颜色:藏青色拼星河紫;尺码:L",
+                "title": "梭织上衣",
+                "sku": "6902961044946",
+                "stock": 50,
+                "lock_stock": 0,
+                "sale_stock": 0,
+                "sync_lock": "0",
+                "id_pa_group": [
+                    521689,
+                    521692
+                ]
+            }
+        },
+        {
+            "attr": [
+                {
+                    "id_pa": 521689,
+                    "id_pac": 1,
+                    "id_goods": 64727,
+                    "attr_name": "藏青色拼星河紫",
+                    "attr_alias": "F71M118704FNV",
+                    "order_id": 2,
+                    "image_url": "https://img.fishfay.com/shopgoods/7/F71M118704F/F71M118704FNV/1/f9d29775067bc722a9d2733278999c3c.jpg",
+                    "video_url": "",
+                    "attr_cate_name": "颜色",
+                    "attr_cate_code": "color"
+                },
+                {
+                    "id_pa": 521695,
+                    "id_pac": 5,
+                    "id_goods": 64727,
+                    "attr_name": "XL",
+                    "attr_alias": "XL",
+                    "order_id": 586,
+                    "image_url": "",
+                    "video_url": "",
+                    "attr_cate_name": "尺码",
+                    "attr_cate_code": "size"
+                }
+            ],
+            "info": {
+                "id_sku": 901014,
+                "id_shop": 2,
+                "id_goods": 64727,
+                "shop_price": "1680.00",
+                "market_price": "1680.00",
+                "image": "https://img.fishfay.com/shopgoods/7/F71M118704F/F71M118704FNV/1/f9d29775067bc722a9d2733278999c3c.jpg",
+                "idpas": "521689,521695",
+                "attr_name": "颜色:藏青色拼星河紫;尺码:XL",
+                "title": "梭织上衣",
+                "sku": "6902961044939",
+                "stock": 46,
+                "lock_stock": 0,
+                "sale_stock": 0,
+                "sync_lock": "0",
+                "id_pa_group": [
+                    521689,
+                    521695
+                ]
+            }
+        },
+        {
+            "attr": [
+                {
+                    "id_pa": 521689,
+                    "id_pac": 1,
+                    "id_goods": 64727,
+                    "attr_name": "藏青色拼星河紫",
+                    "attr_alias": "F71M118704FNV",
+                    "order_id": 2,
+                    "image_url": "https://img.fishfay.com/shopgoods/7/F71M118704F/F71M118704FNV/1/f9d29775067bc722a9d2733278999c3c.jpg",
+                    "video_url": "",
+                    "attr_cate_name": "颜色",
+                    "attr_cate_code": "color"
+                },
+                {
+                    "id_pa": 521690,
+                    "id_pac": 5,
+                    "id_goods": 64727,
+                    "attr_name": "2XL",
+                    "attr_alias": "2XL",
+                    "order_id": 621,
+                    "image_url": "",
+                    "video_url": "",
+                    "attr_cate_name": "尺码",
+                    "attr_cate_code": "size"
+                }
+            ],
+            "info": {
+                "id_sku": 901009,
+                "id_shop": 2,
+                "id_goods": 64727,
+                "shop_price": "1680.00",
+                "market_price": "1680.00",
+                "image": "https://img.fishfay.com/shopgoods/7/F71M118704F/F71M118704FNV/1/f9d29775067bc722a9d2733278999c3c.jpg",
+                "idpas": "521689,521690",
+                "attr_name": "颜色:藏青色拼星河紫;尺码:2XL",
+                "title": "梭织上衣",
+                "sku": "6902961044922",
+                "stock": 18,
+                "lock_stock": 0,
+                "sale_stock": 0,
+                "sync_lock": "0",
+                "id_pa_group": [
+                    521689,
+                    521690
+                ]
+            }
+        },
+        {
+            "attr": [
+                {
+                    "id_pa": 521689,
+                    "id_pac": 1,
+                    "id_goods": 64727,
+                    "attr_name": "藏青色拼星河紫",
+                    "attr_alias": "F71M118704FNV",
+                    "order_id": 2,
+                    "image_url": "https://img.fishfay.com/shopgoods/7/F71M118704F/F71M118704FNV/1/f9d29775067bc722a9d2733278999c3c.jpg",
+                    "video_url": "",
+                    "attr_cate_name": "颜色",
+                    "attr_cate_code": "color"
+                },
+                {
+                    "id_pa": 521691,
+                    "id_pac": 5,
+                    "id_goods": 64727,
+                    "attr_name": "3XL",
+                    "attr_alias": "3XL",
+                    "order_id": 637,
+                    "image_url": "",
+                    "video_url": "",
+                    "attr_cate_name": "尺码",
+                    "attr_cate_code": "size"
+                }
+            ],
+            "info": {
+                "id_sku": 901010,
+                "id_shop": 2,
+                "id_goods": 64727,
+                "shop_price": "1680.00",
+                "market_price": "1680.00",
+                "image": "https://img.fishfay.com/shopgoods/7/F71M118704F/F71M118704FNV/1/f9d29775067bc722a9d2733278999c3c.jpg",
+                "idpas": "521689,521691",
+                "attr_name": "颜色:藏青色拼星河紫;尺码:3XL",
+                "title": "梭织上衣",
+                "sku": "6902961044915",
+                "stock": 0,
+                "lock_stock": 0,
+                "sale_stock": 0,
+                "sync_lock": "0",
+                "id_pa_group": [
+                    521689,
+                    521691
                 ]
             }
         }

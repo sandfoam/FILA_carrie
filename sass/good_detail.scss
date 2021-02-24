@@ -252,18 +252,19 @@
 
         .left_view {
             width: 50px;
-            height: 380px;
+            height: 645px;
             padding-top: 40px;
             float: left;
             box-sizing: border-box;
+            overflow: hidden;
 
             .view_imgBox {
                 position: relative;
-
+                // height: 350px;
                 .small_prev {
+                    width: 100%;
                     display: block;
                     margin-bottom: 5px;
-                    // display: none;
                     overflow: hidden;
                     height: 15px;
                     width: 15px;
@@ -271,18 +272,23 @@
                     border-bottom: 2px solid #ccc;
                     position: absolute;
                     left: 17px;
-                    top: -36px;
+                    top: -30px;
                     content: '';
                     transform: rotate(135deg);
                 }
 
                 .view_ul {
+                    height: 300px;
+                    overflow: hidden;
+                    box-sizing: border-box;
                     li {
-                        width: 50px;
-                        height: 50px;
+                        width: 48px;
+                        height: 48px;
                         margin: 10px 0;
                         border: 1px solid #eee;
                         position: relative;
+                        cursor: pointer;
+                        // overflow: hidden;
 
                         img {
                             width: 100%;
@@ -291,11 +297,12 @@
                 }
 
                 .small_next {
+                    width: 100%;
                     margin-top: 5px;
                     transform: rotate(-45deg);
-                    top: 312px;
+                    top: 316px;
                     height: 15px;
-                    width: 15px;
+                    width: 15px ;
                     border-left: 2px solid #ccc;
                     border-bottom: 2px solid #ccc;
                     position: absolute;
@@ -341,7 +348,7 @@
 
         .left_showImg {
             float: left;
-            width: 630px;
+            width: 645px;
             margin-left: 15px;
             height: 645px;
             position: relative;

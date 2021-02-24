@@ -63,7 +63,7 @@ ajax({
             var strLi = ''
             str += `<li class="list_libox">
             <div class="show_box">
-                <a href="" class="show_good"  >
+                <a href="./good_detail.html?id=${item.info.id_goods}" target='_blank' class="show_good"  >
                     <img class="normal_show" _src="${item.info.image}" src="${item.info.image}" alt="">
                 </a>
                 <p >${item.info.pro_name}</p>
