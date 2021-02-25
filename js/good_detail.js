@@ -86,7 +86,7 @@ ajax({
                 </div>
                 <div class="good_btn">
                     <a href="javascript:;" class="btn_chart">加入购物车</a>
-                    <a href="./cart.html" class="btn_buy">立即购买</a>
+                    <a href="./good_cart.html" class="btn_buy">立即购买</a>
                 </div>
             </div>
             </div>

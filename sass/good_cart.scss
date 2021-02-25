@@ -134,14 +134,18 @@
 
         .cart_top {
             margin: 5px 0 15px;
+            position: relative;
 
             .checkbox_all {
-                width: 0px;
-                height: 0px;
+                width: 12px;
+                height: 12px;
                 margin: 0;
                 padding: 0;
                 border: 0;
                 background-color: #999;
+                position: absolute;
+                top: 9px;
+                left: 2px;
             }
 
             i {
@@ -155,12 +159,12 @@
                 margin-right: 8px;
                 border-radius: 50%;
                 cursor: pointer;
+                pointer-events: none;
             }
 
             .bg_blue {
-                background-color: #03234c;
+                background-color: #03234c !important;
             }
-
             .checkbox_txt {
                 font-size: 12px;
             }
@@ -176,13 +180,17 @@
                     width: 1200px;
                     height: 140px;
                     border-bottom: 1px solid #c3c3c3;
+                    position: relative;
 
                     .li_input {
-                        width: 0;
-                        height: 0;
+                        width: 12px;
+                        height: 12px;
                         margin: 0;
                         padding: 0;
                         border: 0;
+                        position: absolute;
+                        top: 60px;
+                        left: 9px;
                     }
 
                     i {
@@ -191,17 +199,23 @@
                         width: 18px;
                         background-color: #fff;
                         border: 1px solid #666;
-                        position: relative;
-                        top: 4px;
+                        position: absolute;
+                        top: 58px;
                         margin-right: 8px;
                         border-radius: 50%;
+                        left: 4px;
+                        pointer-events: none;
                     }
-
+                    .bg_blue {
+                        background-color: #03234c !important;
+                    }
                     .li_img {
                         width: 150px;
-                        padding: 20px 0;
+                        padding: 20px 20px 0px;
+                        margin-left: 40px;
                         box-sizing: border-box;
-                        display: inline-block;
+                        // display: inline-block;
+                        float: left;
 
                         a {
                             img {
@@ -213,9 +227,13 @@
                     }
 
                     .li_detail {
-                        display: inline-block;
+                        // display: inline-block;
                         width: 1010px;
                         box-sizing: border-box;
+                        // border-top: 1px solid rgb(238, 40, 40);
+                        padding-top: 30px;
+                        // vertical-align: middle;
+                        float: right;
 
                         .detail_l {
                             width: 900px;
@@ -226,6 +244,7 @@
                                 color: #03234c;
                                 font-weight: 600;
                                 line-height: 30px;
+                                // padding-top: 20px;
                             }
 
                             p {
@@ -355,7 +374,6 @@
 
             .sum_l {
                 float: left;
-
                 .checkbox_ipt {
                     width: 0;
                     height: 0;
@@ -368,7 +386,7 @@
                     display: inline-block;
                     height: 18px;
                     width: 18px;
-                    background-color: #fff;
+                    // background-color: #fff;
                     border: 1px solid #666;
                     position: relative;
                     top: 4px;
