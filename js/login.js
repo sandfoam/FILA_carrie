@@ -102,3 +102,43 @@ messBtn.onclick = function () {
     }
     localStorage.setItem("phoneNumber", JSON.stringify(obj));
 }
+
+
+{
+    let arr = [
+      {
+        name: "张三",
+        age: 20,
+        sex: "男"
+      },
+      {
+        name: "李四",
+        age: 16,
+        sex: "女"
+      },
+      {
+        name: "王五",
+        age: 21,
+        sex: "男"
+      },
+      {
+        name: "马六",
+        age: 28,
+        sex: "男"
+      },
+      {
+        name: "昊七",
+        age: 19,
+        sex: "女"
+      }
+    ];
+    arr.sort((a, b) => {
+      return a.age - b.age; // 升序
+    });
+    console.log(arr);
+    // {name: "李四", age: 16, sex: "女"}
+    // {name: "昊七", age: 19, sex: "女"}
+    // {name: "张三", age: 20, sex: "男"}
+    // {name: "王五", age: 21, sex: "男"}
+    // {name: "马六", age: 28, sex: "男"}
+  }
